@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codenigma1/Deep-Learning/master/Computer_Vision/Style_Transfer/assets/generated_image_11.png" width=600 height=400>
+</p>
 <h1 align="center">Hi 👋, I'm Vaibhav Khobragade</h1>
 <h3 align="center">I am a data analyst with a strong interest in artificial intelligence and machine learning. I am passionate about tackling data problems in structure and unstructured data using cutting-edge technology. My research interests include computer vision, natural language processing, reinforcement learning, and deep learning approaches to reinforcement learning.</h3>
 
