@@ -2,6 +2,7 @@
 <h3 align="center">A passionate for solving data challenges in structure and unstructures in this modern era using state of art. My reserach interest in Computer Vision, Natural Language Processing, Reinforcement Learning using Deep Learning techniques.</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">   
+
 - 🔭 I’m currently working on **Anime GANs**
 
 - 🌱 I’m currently learning **MicroMaster Statistic and Data Science from MIT IDSS on edX**
