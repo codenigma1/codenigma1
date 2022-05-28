@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Khobragade</h1>
 <h3 align="center">A passionate for solving data challenges in structure and unstructures in this modern era using state of art. My reserach interest in Computer Vision, Natural Language Processing, Reinforcement Learning using Deep Learning techniques.</h3>
-<img align="right" alt="coding" width = "400" src = "https://www.pinterest.com/pin/45106433751895123/">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codenigma1&label=Profile%20views&color=0e75b6&style=flat" alt="codenigma1" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 I’m currently working on **Anime GANs**
 
