@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Khobragade</h1>
 <h3 align="center">A passionate for solving data challenges in structure and unstructures in this modern era using state of art. My reserach interest in Computer Vision, Natural Language Processing, Reinforcement Learning using Deep Learning techniques.</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+  <img alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">  
+  
 - 🔭 I’m currently working on **Anime GANs**
 
 - 🌱 I’m currently learning **MicroMaster Statistic and Data Science from MIT IDSS on edX**
@@ -15,6 +16,7 @@
 - 📄 Know about my experiences [https://www.overleaf.com/project/618558dbee0a745d13a39cbe](https://www.overleaf.com/project/618558dbee0a745d13a39cbe)
 
 - ⚡ Fun fact **I think, I am AnimeLover and Computer Science geeks**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
