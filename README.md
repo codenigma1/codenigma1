@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Khobragade</h1>
-<h3 align="center">A passionate for solving data challenges in structure and unstructures in this modern era using state of art. My reserach interest in Computer Vision, Natural Language Processing, Reinforcement Learning using Deep Learning techniques.</h3>
+<h3 align="center">A enthusiastic for tackling data difficulties in structure and unstructures in this modern era employing state of art. My reserach interest is Computer Vision, Natural Language Processing, Reinforcement Learning using Deep Learning approaches.</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">   
 
