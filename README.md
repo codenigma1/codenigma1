@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">   
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codenigma1&label=Profile%20views&color=0e75b6&style=flat" alt="codenigma1" /> </p>
+
 - 🔭 I’m currently working on **Anime GANs**
 
 - 🌱 I’m currently learning **MicroMaster Statistic and Data Science from MIT IDSS on edX**
