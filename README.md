@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MicroMaster Statistic and Data Science from MIT IDSS on edX**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://vaibhav-cs.webflow.io/)
+- 👨‍💻 All of my projects are available at [portfolio](https://vaibhavaiinsights.webflow.io/)
 
 - 💬 Ask me about **Data Analysis, Deep Learning, Computer Vision.**
 
