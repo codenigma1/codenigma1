@@ -28,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav khobragade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav khobragade" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/code_conundrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="code_conundrum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhavmitx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav khobragade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9511113/code-conundrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="code_conundrum" height="30" width="40" /></a>
 <a href="https://kaggle.com/codenigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codenigma" height="30" width="40" /></a>
 <a href="https://instagram.com/fubuki_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fubuki_8" height="30" width="40" /></a>
 </p>
