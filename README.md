@@ -4,19 +4,19 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vaibhav Khobragade</h1>
-<h3 align="center">I am a data analyst with a strong interest in artificial intelligence and machine learning. I am passionate about tackling data problems in structure and unstructured data using cutting-edge technology. My research interests include computer vision, natural language processing, reinforcement learning, and deep learning approaches to reinforcement learning.</h3>
+<h3 align="center">I am a recent graduate of the Master of Machine Learning and Computer Vision program at the Australian National University. I am passionate about leveraging cutting-edge technology to address challenges in structured and unstructured data. My research interests span diverse fields, including Computer Vision, Reinforcement Learning, and Large Language Models.</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenigma1&label=Profile%20views&color=0e75b6&style=flat" alt="codenigma1" /> </p>
 
-- 🔭 I’m currently working on **Anime GANs**
+- 🔭 I’m currently exploring **State-of-the-Art-Applcation**
 
-- 🌱 I’m currently learning **MicroMaster Statistic and Data Science from MIT IDSS on edX**
+- 🌱 I've Completed **MicroMaster Statistic and Data Science from MIT IDSS on edX**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://vaibhavaiinsights.webflow.io/)
 
-- 💬 Ask me about **Data Analysis, Deep Learning, Computer Vision.**
+- 💬 Ask me about **Data Analysis, Deep Learning, Reinforcement Learning, Natrual Langauge Processing, Large Language Models, and Computer Vision.**
 
 - 📫 How to reach me **khobragade.vaibhav8@gmail.com**
 
