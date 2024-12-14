@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [resume](https://www.overleaf.com/project/618558dbee0a745d13a39cbe)
 
-- ⚡ Fun fact **I think, I am AnimeLover and Computer Science geeks**
+- ⚡ Fun fact **I am AnimeLover and Computer Science geeks**
   
 
 
